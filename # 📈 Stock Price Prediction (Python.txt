@@ -1,0 +1,16 @@
+# 📈 Stock Price Prediction (Python + Machine Learning)
+
+This project predicts future stock prices using *Linear Regression* on historical data fetched from *Yahoo Finance*.  
+It visualizes both *actual stock prices* and *predicted prices* for the next 30 days.
+
+---
+
+## 🚀 Features
+- Fetches real stock market data using yfinance
+- Trains a *Linear Regression model*
+- Predicts stock prices for the next 30 days
+- Visualizes actual vs predicted prices in a graph
+
+---
+
+## 📂 Project Structure
